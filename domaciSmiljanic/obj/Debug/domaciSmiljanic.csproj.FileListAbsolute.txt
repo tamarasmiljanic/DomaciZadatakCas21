@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\domaciSmiljanic\bin\Debug\domaciSmiljanic.exe.config
+C:\Users\Dell\source\repos\domaciSmiljanic\bin\Debug\domaciSmiljanic.exe
+C:\Users\Dell\source\repos\domaciSmiljanic\bin\Debug\domaciSmiljanic.pdb
+C:\Users\Dell\source\repos\domaciSmiljanic\obj\Debug\domaciSmiljanic.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\domaciSmiljanic\obj\Debug\domaciSmiljanic.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\domaciSmiljanic\obj\Debug\domaciSmiljanic.exe
+C:\Users\Dell\source\repos\domaciSmiljanic\obj\Debug\domaciSmiljanic.pdb
